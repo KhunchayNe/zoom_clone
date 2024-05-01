@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "514533526670-94r7gqhs4j0r4foljjv7n49att35slac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zoom_clone",
+            "certificate_hash": "48b1ddcffcb38474f5dfef2e4a8021278ac93ddf"
+          }
+        },
+        {
           "client_id": "514533526670-amu267f64e0haq2a9qp5o9j27ef3albk.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,6 +37,57 @@
             {
               "client_id": "514533526670-amu267f64e0haq2a9qp5o9j27ef3albk.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "514533526670-3581bcglithpa25mudpf6el1e9vvgvv5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zoomClone"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514533526670:android:b1201831024413e3bccddf",
+        "android_client_info": {
+          "package_name": "om.example.zoomClone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514533526670-ikhb6sv21vfneiu3h9j0v4l5m8stqf5n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "om.example.zoomClone",
+            "certificate_hash": "48b1ddcffcb38474f5dfef2e4a8021278ac93ddf"
+          }
+        },
+        {
+          "client_id": "514533526670-amu267f64e0haq2a9qp5o9j27ef3albk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfAA5OhmDP2XS1w4vFU4RUjqPatXc1iNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514533526670-amu267f64e0haq2a9qp5o9j27ef3albk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "514533526670-3581bcglithpa25mudpf6el1e9vvgvv5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zoomClone"
+              }
             }
           ]
         }

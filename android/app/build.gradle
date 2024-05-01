@@ -54,6 +54,11 @@ android {
         versionName flutterVersionName
         multiDexEnabled true
     }
+    signingConfigs {
+        debug {
+            storeFile file('keystore/debug.keystore')
+        }
+    }
 
     buildTypes {
         release {
