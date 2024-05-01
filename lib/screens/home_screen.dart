@@ -15,7 +15,7 @@ class _HomeScreenState extends State<HomeScreen> {
   int _currentindex = 0;
 
   List<Widget> pages = [
-    const MeetingScreen(),
+    MeetingScreen(),
     const HistoryMeetingScreen(),
     const Text('data'),
     const Text('setting'),

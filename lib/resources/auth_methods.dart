@@ -9,7 +9,7 @@ class AuthMehods {
   final FirebaseFirestore _firestore = FirebaseFirestore.instance;
 
   Stream<User?> get authChange => _auth.authStateChanges();
-
+  User get user => _auth.currentUser!;
   Future<bool> signInWithGoogle(BuildContext context) async {
     bool res = false;
     try {
